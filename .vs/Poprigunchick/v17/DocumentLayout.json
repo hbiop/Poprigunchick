@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\need\\c#_projects\\Poprigunchick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\agentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\agentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\agentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\agentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\productslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\productslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\agentrecordadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\agentrecordadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\productaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\productaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\agentrecordadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\agentrecordadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\productslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\productslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\views\\productaddview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\views\\productaddview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\models\\poprigunchickmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\models\\poprigunchickmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|d:\\need\\c#_projects\\poprigunchick\\poprigunchick\\models\\poprigunchickmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C0A3FB78-9E2D-479D-83FD-54FBED9EDC98}|Poprigunchick\\Poprigunchick.csproj|solutionrelative:poprigunchick\\models\\poprigunchickmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1271524308:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentDto.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\AgentDto.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\AgentDto.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\AgentDto.cs",
+              "RelativeToolTip": "Poprigunchick\\AgentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:36:45.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views\\AgentsList.xaml.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentsList.xaml.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\AgentsList.xaml.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentsList.xaml.cs",
+              "RelativeToolTip": "Poprigunchick\\views\\AgentsList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:08:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsList.xaml.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductsList.xaml.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\ProductsList.xaml.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductsList.xaml.cs",
+              "RelativeToolTip": "Poprigunchick\\views\\ProductsList.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:12:49.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\Product.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\models\\Product.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\Product.cs",
+              "RelativeToolTip": "Poprigunchick\\models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:08:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "views\\ProductAddView.xaml.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductAddView.xaml.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\ProductAddView.xaml.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductAddView.xaml.cs",
+              "RelativeToolTip": "Poprigunchick\\views\\ProductAddView.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwD4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:21:31.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentsList.xaml",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentsList.xaml",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\AgentsList.xaml",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentsList.xaml",
+              "RelativeToolTip": "Poprigunchick\\views\\AgentsList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T03:07:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgentRecordAdd.xaml",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentRecordAdd.xaml",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\AgentRecordAdd.xaml",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentRecordAdd.xaml",
+              "RelativeToolTip": "Poprigunchick\\views\\AgentRecordAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T03:36:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentRecordAdd.xaml.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentRecordAdd.xaml.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\AgentRecordAdd.xaml.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\AgentRecordAdd.xaml.cs",
+              "RelativeToolTip": "Poprigunchick\\views\\AgentRecordAdd.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:37:10.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductAddView.xaml",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductAddView.xaml",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\ProductAddView.xaml",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductAddView.xaml",
+              "RelativeToolTip": "Poprigunchick\\views\\ProductAddView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T02:09:27.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoprigunchickModel.Context.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\PoprigunchickModel.Context.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\models\\PoprigunchickModel.Context.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\PoprigunchickModel.Context.cs",
+              "RelativeToolTip": "Poprigunchick\\models\\PoprigunchickModel.Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:08:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsList.xaml",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductsList.xaml",
+              "RelativeDocumentMoniker": "Poprigunchick\\views\\ProductsList.xaml",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\views\\ProductsList.xaml",
+              "RelativeToolTip": "Poprigunchick\\views\\ProductsList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T01:08:25.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\models\\ProductType.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\ProductType.cs",
+              "RelativeToolTip": "Poprigunchick\\models\\ProductType.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:28:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PoprigunchickModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\PoprigunchickModel.edmx",
+              "RelativeDocumentMoniker": "Poprigunchick\\models\\PoprigunchickModel.edmx",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\models\\PoprigunchickModel.edmx [Diagram1]",
+              "RelativeToolTip": "Poprigunchick\\models\\PoprigunchickModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-15T01:02:22.821Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Poprigunchick\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Poprigunchick\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:00:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Poprigunchick\\MainWindow.xaml",
+              "ToolTip": "D:\\need\\c#_projects\\Poprigunchick\\Poprigunchick\\MainWindow.xaml",
+              "RelativeToolTip": "Poprigunchick\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T01:09:00.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
