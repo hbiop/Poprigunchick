@@ -1,0 +1,34 @@
+﻿<Page x:Class="Poprigunchick.views.AgentRecordAdd"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Poprigunchick.views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AgentRecordAdd"
+      Background="White">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Агент" Grid.Row="1" Grid.Column="0"/>
+        <ComboBox Name="ComboBoxAgents" Grid.Column="1" Grid.Row="1"/> 
+        <Label Content="Дата продажи" Grid.Row="2" Grid.Column="0"/>
+        <DatePicker Name="DatePickerDateSale" Grid.Column="1" Grid.Row="2"/>
+        <Label Content="Количество продуктов" Grid.Row="3" Grid.Column="0"/>
+        <TextBox x:Name="TextBoxProductCount" Grid.Column="1" Grid.Row="3"/>
+        <Button Content="Назад" Grid.Column="0" Grid.Row="5" Name="ButtonBack" Click="ButtonBack_Click"/>
+        <Button Content="Добавить" Grid.Column="1" Grid.Row="5" Name="ButtonAdd" Click="ButtonAdd_Click"/>
+    </Grid>
+</Page>
